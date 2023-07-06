@@ -41,8 +41,7 @@ const HeroBanner = () => {
                 <div className="heroBannerContent">
                     <span className="title">Welcome.</span>
                     <span className="subTitle">
-                        Millions of movies, TV shows and people to discover.
-                        Explore now.
+                        A project by Anunay Kumar.
                     </span>
                     <div className="searchInput">
                         <input
